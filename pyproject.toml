@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "cvm-inf-diario"
+version = "0.1.0"
+description = ""
+authors = ["Rodrigo Prado de Jesus <royopa@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.0"
+dask = "^2024.1.1"
+requests-html = "^0.10.0"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
