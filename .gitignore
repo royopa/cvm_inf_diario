@@ -1,6 +1,7 @@
 .ipynb_checkpoints
-2005_2020.dask/*.part
-2021_em_diante.dask/*.part
 csv/*.csv
-csv/2005_2020/*.csv
+csv_2005_2020/*.csv
 zip/*.zip
+.DS_Store
+base_completa.csv
+base_completa.csv/*.part
